@@ -1,0 +1,11 @@
+# Installed packages and local Node.js runtime
+Engine/node_modules/
+Engine/Runtime/
+
+# Local OCR data and generated locker images
+Engine/Cache/
+/images/
+
+# Debug and temporary files
+*.log
+*.tmp

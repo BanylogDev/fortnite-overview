@@ -1,0 +1,26 @@
+{
+  "name": "fn-locker-generator",
+  "version": "1.0.0",
+  "description": "Generates an image of the fortnite locker",
+  "type": "module",
+  "main": "Code/main.js",
+  "scripts": {
+    "start": "node Code/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BanylogDev/fortnite-overview.git"
+  },
+  "homepage": "https://github.com/BanylogDev/fortnite-overview",
+  "author": "BanylogDev",
+  "license": "GNU General Public License v3.0",
+  "dependencies": {
+    "axios": "^1.21.0",
+    "dotenv": "^16.6.1",
+    "jimp": "^0.16.13",
+    "node-fetch": "^3.3.2",
+    "playwright": "^1.65.0",
+    "screenshot-desktop": "1.15.5",
+    "tesseract.js": "7.0.0"
+  }
+}
